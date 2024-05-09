@@ -33,6 +33,9 @@ This composer project is used for testing the Drupal AI module.
    ddev . drush uli
    ```
 
-5. **Read drupalai module instruction for configuration/usage**
+
+**Read drupalai module documentation**
+
+Please refer to the following instruction for configuration/usage:
 
 https://github.com/drupalninja/drupalai/
