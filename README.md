@@ -1,5 +1,5 @@
 ## Overview
-This composer project is used for testing the Drupal AI module for Drupal 10+.
+This composer project is used for testing the Drupal AI module.
 
 ## Quick start
 
