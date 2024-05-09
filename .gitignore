@@ -43,3 +43,5 @@ build
 
 # Ignore local drush configuration.
 /drush/drush.yml
+
+composer.lock
